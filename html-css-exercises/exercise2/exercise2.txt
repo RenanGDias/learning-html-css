@@ -1,0 +1,8 @@
+Use CSS to recreate these buttons from famous websites:
+
+2a. Uber
+2b. Amazon - rgb(255, 216, 20)
+2c. GitHub - rgb(46, 164, 79)
+2d. Bootstrap - rgb(121, 82, 179) / rgb(108, 117, 125)
+2e. LinkedIn - rgb(10, 102, 194)
+2f. Continuing from exercise 1g. recreate the following design using CSS:

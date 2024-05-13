@@ -1,0 +1,15 @@
+Lesson 1 Exercises - HTML Basics: 
+
+1a. Create a button with the text "Click" inside
+
+1b. Create 2 buttons. 1 with your name and 1 with your favorite food
+
+1c. Create a paragraph with the text "Hello, World!" inside
+
+1d. Create a paragraph below the previous paragraph and write something you did today
+
+1e. Create a link to google.com
+
+1f. Make the link open in a new tab
+
+1g. Implement the given design using HTML (the link goes to amazon.com)
