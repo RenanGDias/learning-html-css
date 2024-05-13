@@ -1,0 +1,10 @@
+Lesson 3 Exercises - Hovers, Transitions, Shadows
+
+Use CSS to recreate these buttons from famous websites:
+
+3a. Uber
+3b. Amazon
+3c. GitHub
+3d. Bootstrap
+3e. LinkedIn
+3f. Continuing from exercise 2f. recreate the given design
