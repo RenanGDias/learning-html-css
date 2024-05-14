@@ -1,0 +1,10 @@
+Lesson 5 Exercises - Text Styles
+
+Recreate the given text styles:
+5a. font = Tahoma
+5b. font = Arial
+5c. font = Verdana
+5d. font = Arial
+5e. font = Arial
+5f. font = Arial
+5g. font = Arial
