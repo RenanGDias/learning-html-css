@@ -1,0 +1,12 @@
+Lesson 6 Exercises - The HTML Structure
+
+Modify some of the previous exercises and:
+
+6a. Add the HTML structure(<!DOCTYPE html>, <html>, <head>, <body>)
+6b. Add an appropriate <title> for each exercise
+6c. Move the CSS into a separate file (using the <link> element)
+6d. In a new HTML file, create the given design:
+-Use the HTML structure
+-Add a <title>
+-Use a separate CSS file
+-Use the Google Font called "Montserrat" (regular + bold)
