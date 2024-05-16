@@ -1,0 +1,12 @@
+Lesson 8 Exercises - Display Block and Inline-Block
+
+8a. Create 2 text boxes and put them on separate lines (using display:block)
+8b: Create a paragraph and 2 buttons and place them on the same line (using width, display:inline-block and vertical-align:middle)
+8c: Download Google's logo and create the google.com search form
+-We created the text box in exercise 7e.
+-For now, position the logo with margin(we'll learn better ways to do this later)
+
+## Challenge Exercises
+
+8d. Recreate a Sign Up form
+8e. Recreate Uber request-a-ride form
