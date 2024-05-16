@@ -1,0 +1,24 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 14px;
+  text-align: center;
+}
+
+.title-paragraph {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.sub-title-paragraph {
+  font-size: 17px;
+}
+
+.learn-more-paragraph {
+  color: rgb(1, 102, 184);
+  cursor: pointer;
+}
+
+.learn-more-paragraph:hover {
+  text-decoration: underline;
+}

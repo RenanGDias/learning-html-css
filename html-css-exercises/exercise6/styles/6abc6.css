@@ -1,0 +1,29 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.price-paragraph {
+  font-size: 30px;
+  font-family: Arial;
+  margin-bottom: 4px;
+}
+
+.usd {
+  color: grey;
+  font-size: 20px;
+  margin-left: 4px;
+}
+
+.increase-paragraph {
+  color: green;
+  margin-bottom: 4px;
+}
+
+.time-paragraph {
+  color: rgb(100, 100, 100);
+}
+
+.negative-paragraph {
+  color: rgb(199, 3, 3);
+}
