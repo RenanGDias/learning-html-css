@@ -1,0 +1,40 @@
+p {
+  font-family: Arial;
+  margin-top:0;
+  margin-bottom:0;
+  margin-left:0;
+  margin-right:0;
+  color:rgb(100, 100, 100);
+}
+
+.email{
+  font-size:16px;
+  margin-bottom:6px;
+}
+
+.email-input{
+  width:400px;
+  height:25px;
+  border-width: 2px;
+  border-style: solid;
+  border-radius:5px;
+  margin-bottom: 24px;
+}
+
+.agree-join-text{
+  margin-bottom:20px;
+}
+
+.join-button{
+  width:400px;
+  height:40px;
+  background-color: rgb(11, 96, 182);
+  color:white;
+  border:none;
+  border-radius: 20px;
+  cursor:pointer;
+}
+
+.join-button:hover{
+  background-color: rgb(7, 73, 139)
+}
