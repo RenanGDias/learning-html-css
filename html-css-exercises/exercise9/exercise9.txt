@@ -1,0 +1,8 @@
+Lesson 9 Exercises - The <div> Element
+
+First, we'll show that a <div> is just a box:
+
+9a. Create a <div> and turn it into a red square
+9b. Create a <div> and turn it into a green circle
+9c. Recreate this design by wrapping the elements in a <div> and adding a border
+9d. Recreate this design using a <div> with 2 paragraphs inside

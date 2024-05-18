@@ -1,0 +1,9 @@
+.card{
+  border-width: 1px;
+  border-style:solid;
+  border-color:rgb(150, 150, 150);
+  font-family: Arial;
+  padding-left:15px;
+  padding-bottom:20px;
+  width:300px;
+}
