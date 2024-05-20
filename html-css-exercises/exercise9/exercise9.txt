@@ -6,3 +6,12 @@ First, we'll show that a <div> is just a box:
 9b. Create a <div> and turn it into a green circle
 9c. Recreate this design by wrapping the elements in a <div> and adding a border
 9d. Recreate this design using a <div> with 2 paragraphs inside
+9e. Take the design created in exercise 7g. Wrap it in a <div> and give it a shadow
+
+## Challenge Exercises
+
+9f. Recreate the given design
+9g. For exercise 9f. set display:inline-block on the <div>, and duplicate the design a few times
+9h. Continuing from exercise 8c. we'll finish the Google Search design. To center everything:
+-Wrap each line with a <div> and use text-align:center on the <div>
+-Remove any uses of display:block on the image/input(display:block causes elements to take up the entire line, so they can't be centered)
