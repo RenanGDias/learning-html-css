@@ -1,0 +1,14 @@
+Lesson 10 Exercises - Nested Layouts Technique
+
+Using an image editing software, break down the following designs into a series of vertical and horizontal layouts
+
+Designs downloadable at: 
+https://supersimple.dev/css/nested-layouts-technique
+
+10a. Draw the layout for the first design
+10b. Draw the layout
+10c. Draw the layout
+10d. Draw the layout
+10e. Build the design in exercise 10d. with code (most of this was already built in exercise 9g.)
+-Create vertical layouts with <div>
+-Create horizontal layouts with <div> and display: inline-block;
