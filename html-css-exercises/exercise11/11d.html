@@ -1,0 +1,74 @@
+<!--11d. Continuing from exercise 10e. create this design using CSS Grid
+-Create a grid with 3 columns and put the elements into the Grid
+-Replace any uses of display:inline-block
+-To align elements vertically in a grid, use align-items:center-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>11d Grid Exercise</title>
+    <link rel="stylesheet" href="styles/11d.css">
+  </head>
+  <body>
+
+    <div class="grid">
+      <div class="profile">
+        <div class="profile-image">
+          <img class="golden" src="golden.jpg" />
+        </div>
+        <div class="profile-name">
+          <p class="name">Oliver</p>
+        </div>
+        <div class="profile-mutual-friends">
+          <div class="mini-profile-picture">
+            <img class="mini-pfp"src="pfp.jpeg">
+          </div>
+          <div class="mutual-friends">
+            <p class="mut-friends">2 mutual friends</p>
+          </div>
+        </div>
+        <div class="profile-add-friend">
+          <button class="add-friend-button">Add Friend</button>
+        </div>
+      </div>
+      <div class="profile">
+        <div class="profile-image">
+          <img class="golden" src="jett.jpg" />
+        </div>
+        <div class="profile-name">
+          <p class="name">Jett</p>
+        </div>
+        <div class="profile-mutual-friends">
+          <div class="mini-profile-picture">
+            <img class="mini-pfp"src="pfp.jpeg">
+          </div>
+          <div class="mutual-friends">
+            <p class="mut-friends" style="display:inline-block;">3 mutual friends</p>
+          </div>
+        </div>
+        <div class="profile-add-friend">
+          <button class="add-friend-button">Add Friend</button>
+        </div>
+      </div>
+      <div class="profile">
+        <div class="profile-image">
+          <img class="golden" src="omen.jpg" />
+        </div>
+        <div class="profile-name">
+          <p class="name">Omen</p>
+        </div>
+        <div class="profile-mutual-friends">
+          <div class="mini-profile-picture">
+            <img class="mini-pfp"src="pfp.jpeg">
+          </div>
+          <div class="mutual-friends">
+            <p class="mut-friends">4 mutual friends</p>
+          </div>
+        </div>
+        <div class="profile-add-friend">
+          <button class="add-friend-button">Add Friend</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

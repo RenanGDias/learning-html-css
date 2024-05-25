@@ -5,3 +5,8 @@ Lesson 11 Exercises - CSS Grid
 11b. Create a grid with 3 columns. Widths = 50px | remaining space | 75px
 
 11c. Create a grid with 4 equal columns that take up the entire page. Space between columns = 20px, space between rows = 10px
+
+11d. Continuing from exercise 10e. create this design using CSS Grid
+-Create a grid with 3 columns and put the elements into the Grid
+-Replace any uses of display:inline-block
+-To align elements vertically in a grid, use align-items:center
