@@ -1,0 +1,13 @@
+Lesson 12 Exercises - Flexbox
+
+12a. Create a flexbox with 2 items. Widths = 200px | 75px
+
+12b. A flexbox with 3 items. Widths = 50px | remaining space | 75px
+
+12c. A flexbox with 4 items, spread evenly across the page
+
+12d. Create the flexbox given with height = 50px and a gray border
+
+## Challenge Exercises
+
+12e. / 12f. / 12g. Create the given designs

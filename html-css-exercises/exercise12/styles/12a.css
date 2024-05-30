@@ -1,0 +1,12 @@
+.flexbox{
+  display:flex;
+  flex-direction: row;
+}
+.p1{
+  width:200px;
+  background-color: lightblue;
+}
+.p2{
+  width:75px;
+  background-color: lightpink;
+}
